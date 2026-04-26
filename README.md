@@ -1,4 +1,6 @@
-The code in this repository is used by an ESP32 to control the chamber heater I posted on printables.
+The code in this repository is used by an ESP32 to control the chamber heater, which I will eventually post on printables.
+
+This repository is under construction, so take everything here as preliminary.
 
 Bill of materials:
 
