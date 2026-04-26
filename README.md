@@ -21,3 +21,4 @@ Bill of materials:
 - Assorted M3 screws for assembly
 - Jumper wires and solder kit
 - At least 6 2.54mm male pins (https://aliexpress.com/item/1005007385580884.html)
+- Optional: Optocoupled relay to disable the heater PSU if the printer and ESP32 is not powered. This is a redundant security feature that I have not yet implemented. The PSU output is already closed by the LR7843 mosfet modules, so adding this may not be justified. If you want to be extra careful, you can get one of these: (https://aliexpress.com/item/1005008067360081.html)
