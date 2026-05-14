@@ -8,7 +8,7 @@ https://www.printables.com/model/1696936-jetpack-chamber-heater-for-the-core-one
 - Multiple layers of safety thought into the design
 
 # Disclaimer: Read this before you proceed:
-I have done my best to ensure the safety of this project. However, I hold no special qualifications with regard to any part of this project, therefore you should not consider my advice reliable. If you are not able to judge whether my safety suggestions are adequate, then please consult with someone knowledgeable before you proceed with this. Working with high-powered electronics such as a 200W heater can be dangerous, both you person and property. By proceeding with this project, you agree to assume all responsibility for any potential damage that may follow. I do my best to further your safety, but in the ends, it is in your hands.
+I have done my best to ensure the safety of this project. However, I hold no special qualifications with regard to any part of this project. Therefore, you should not consider my advice reliable. If you are not able to judge whether my safety suggestions are adequate, then please consult with someone knowledgeable before you proceed with this. Working with high-powered electronics such as a 200W heater can be dangerous, both for people and for property. By proceeding with this project, you agree to assume all responsibility for any potential damage that may follow. I do my best to further your safety, but in the ends, it is in your hands.
 
 # Instructions
 This GitHub contains the instructions for how to handle the firmware for the ESP32 used in the chamber heater project. All other aspects of the project, including the bill of material, is covered on the Printables page which I encourage you to vist.
